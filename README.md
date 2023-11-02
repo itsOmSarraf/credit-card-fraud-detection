@@ -1,6 +1,4 @@
-#### The dataset
-
-[Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+#### The dataset : [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 Resources followed : 
 
