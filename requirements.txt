@@ -1,0 +1,8 @@
+numpy
+pandas
+termcolor
+seaborn
+matplotlib
+scikit-learn
+statsmodels
+xgboost
